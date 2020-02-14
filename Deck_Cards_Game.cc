@@ -1,6 +1,5 @@
 //
-//  main.cpp
-//  GarciaGarza_Alan_Hw4
+//  Alan Garcia Garza
 //
 //  Created by Alan Garcia on 3/20/19.
 //  Copyright © 2019 Alan Garcia. All rights reserved.
